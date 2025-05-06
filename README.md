@@ -5,7 +5,7 @@ This project analyzes the "Sample - Superstore.csv" dataset to explore sales tre
 ## 📁 Project Structure
 
 ```
-superstore-analysis/
+Data-Analysis-Pandas-Matplotlib-Seaborn/
 ├── images
 ├── Sample - Superstore.csv
 ├── analysis.py
@@ -29,8 +29,8 @@ superstore-analysis/
 
 ### 1. Clone or download this repository
 ```bash
-git clone <your-repo-url>
-cd superstore-analysis
+git clone <repo-url>
+cd Data-Analysis-Pandas-Matplotlib-Seaborn
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
